@@ -45,3 +45,4 @@ group :development do
   gem 'spring'
 end
 
+gem 'twilio-ruby', '~> 4.2.1'
